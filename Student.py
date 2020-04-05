@@ -32,23 +32,23 @@ class Student:
         return fees_due
 
 # Inputs
-print("Enter student name: ")
-name = input()
-
-print("Enter student age: ")
-age = input()
-
-roll = randint(1, 100)
-
-print("Enter student grade: ")
-grade = input()
-
-print(name + " has paid: ")
-fees_paid = input()
-
-pupil = Student(name, age, roll, grade)
-pupil.studentdetails()
-pupil.studentfeesdetails(fees_paid)
+# print("Enter student name: ")
+# name = input()
+#
+# print("Enter student age: ")
+# age = input()
+#
+# roll = randint(1, 100)
+#
+# print("Enter student grade: ")
+# grade = input()
+#
+# print(name + " has paid: ")
+# fees_paid = input()
+#
+# pupil = Student(name, age, roll, grade)
+# pupil.studentdetails()
+# pupil.studentfeesdetails(fees_paid)
 
 
 

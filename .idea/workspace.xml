@@ -16,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files (x86)\Git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zv8G46fANLkMtSwa0VkcKHUmiS" />
   <component name="ProjectViewState">
@@ -28,7 +29,33 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abhis\Python\Python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Controller">
+    <configuration name="Controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Controller" />
         <item itemvalue="Python.Lists" />
       </list>
     </recent_temporary>
@@ -82,22 +110,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1154" y="415" key="Github.ShareDialog/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586055720282" />
-    <state width="1250" height="280" key="GridCell.Tab.0.bottom" timestamp="1585885576860">
+    <state width="1269" height="281" key="GridCell.Tab.0.bottom" timestamp="1586062211080">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1250" height="280" key="GridCell.Tab.0.bottom/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576860" />
-    <state width="1250" height="280" key="GridCell.Tab.0.center" timestamp="1585885576858">
+    <state width="1269" height="281" key="GridCell.Tab.0.bottom/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586062211080" />
+    <state width="1269" height="281" key="GridCell.Tab.0.center" timestamp="1586062211080">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1250" height="280" key="GridCell.Tab.0.center/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576858" />
-    <state width="1250" height="280" key="GridCell.Tab.0.left" timestamp="1585885576858">
+    <state width="1269" height="281" key="GridCell.Tab.0.center/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586062211080" />
+    <state width="1269" height="281" key="GridCell.Tab.0.left" timestamp="1586062211080">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1250" height="280" key="GridCell.Tab.0.left/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576858" />
-    <state width="1250" height="280" key="GridCell.Tab.0.right" timestamp="1585885576859">
+    <state width="1269" height="281" key="GridCell.Tab.0.left/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586062211080" />
+    <state width="1269" height="281" key="GridCell.Tab.0.right" timestamp="1586062211080">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1250" height="280" key="GridCell.Tab.0.right/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576859" />
+    <state width="1269" height="281" key="GridCell.Tab.0.right/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586062211080" />
     <state width="1250" height="346" key="GridCell.Tab.1.bottom" timestamp="1585885506692">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>

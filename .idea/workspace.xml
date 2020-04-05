@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5244bcd-1ef0-4610-aea5-9301e33fabb4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files (x86)\Git" />
+  </component>
+  <component name="ProjectId" id="1Zv8G46fANLkMtSwa0VkcKHUmiS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5244bcd-1ef0-4610-aea5-9301e33fabb4" name="Default Changelist" comment="" />
+      <created>1585879495387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585879495387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1064" y="277" key="FileChooserDialogImpl" timestamp="1586055895423">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1064" y="277" key="FileChooserDialogImpl/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586055895423" />
+    <state x="1106" y="438" key="Github.CreateGistDialog" timestamp="1586054931977">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1106" y="438" key="Github.CreateGistDialog/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586054931977" />
+    <state x="1154" y="415" key="Github.ShareDialog" timestamp="1586055720282">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1154" y="415" key="Github.ShareDialog/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586055720282" />
+    <state width="1250" height="280" key="GridCell.Tab.0.bottom" timestamp="1585885576860">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="280" key="GridCell.Tab.0.bottom/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576860" />
+    <state width="1250" height="280" key="GridCell.Tab.0.center" timestamp="1585885576858">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="280" key="GridCell.Tab.0.center/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576858" />
+    <state width="1250" height="280" key="GridCell.Tab.0.left" timestamp="1585885576858">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="280" key="GridCell.Tab.0.left/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576858" />
+    <state width="1250" height="280" key="GridCell.Tab.0.right" timestamp="1585885576859">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="280" key="GridCell.Tab.0.right/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885576859" />
+    <state width="1250" height="346" key="GridCell.Tab.1.bottom" timestamp="1585885506692">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="346" key="GridCell.Tab.1.bottom/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885506692" />
+    <state width="1250" height="346" key="GridCell.Tab.1.center" timestamp="1585885506691">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="346" key="GridCell.Tab.1.center/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885506691" />
+    <state width="1250" height="346" key="GridCell.Tab.1.left" timestamp="1585885506691">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="346" key="GridCell.Tab.1.left/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885506691" />
+    <state width="1250" height="346" key="GridCell.Tab.1.right" timestamp="1585885506692">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1250" height="346" key="GridCell.Tab.1.right/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1585885506692" />
+    <state x="785" y="164" key="SettingsEditor" timestamp="1586055831653">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="785" y="164" key="SettingsEditor/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586055831653" />
+    <state x="96" y="96" width="2368" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586055960380">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="96" y="96" width="2368" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586055960380" />
+    <state x="2" y="24" key="com.intellij.ide.util.TipDialog" timestamp="1586055884494">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="2" y="24" key="com.intellij.ide.util.TipDialog/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586055884494" />
+  </component>
+</project>

@@ -150,9 +150,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="96" y="96" width="2368" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586055960380" />
-    <state x="2" y="24" key="com.intellij.ide.util.TipDialog" timestamp="1586141598587">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1" y="19" key="com.intellij.ide.util.TipDialog" timestamp="1586142907842">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="1" y="19" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586142907842" />
     <state x="2" y="24" key="com.intellij.ide.util.TipDialog/2560.224.1366.728/0.0.2560.1040@0.0.2560.1040" timestamp="1586141598587" />
   </component>
 </project>

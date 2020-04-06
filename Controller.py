@@ -15,11 +15,13 @@ class Controller:
     students = {}
     professors = {}
     seminars = {}
+    enrollments ={}
 
     def __init__(self):
         self.students = {}
         self.professors = {}
         self.seminars = {}
+        self.enrollments ={}
 
     # This is a dictionary of all students. The key is the roll number and value is student object.
     def PrintAllStudents(self):
@@ -71,5 +73,14 @@ prof2 = Professor(2, "Alex Shaw")
 ctrl.professors[1] = prof1
 ctrl.professors[2] = prof2
 print(ctrl.professors)
+############################################################################################
+############################################################################################
+
+Enrollment1 = enrollment(1, 1)
+
+ID=Enrollment1.Register()
+
+ctrl.enrollments[ID]=Enrollment1
+
 ############################################################################################
 ############################################################################################

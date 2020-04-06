@@ -27,7 +27,3 @@ class enrollment():
 #            print(PoolofNumbers[i])
         print("You have successfully unregistered from the course. Your Enrollment ID was AA00500" +str(EnrollmentID))
 
-Shriyanka = enrollment("Shriyanka123", "FEM101")
-
-ID=Shriyanka.Register()
-Shriyanka.Unregister(ID)

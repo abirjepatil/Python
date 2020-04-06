@@ -7,14 +7,19 @@ c) Creating Profesors
 e) Enrolling Students
 """
 from Student import Student
-
+from Professor import  Professor
+from Seminar import Seminar
 
 class Controller:
     global students
     students = {}
+    professors = {}
+    seminars = {}
 
     def __init__(self):
         self.students = {}
+        self.professors = {}
+        self.seminars = {}
 
     # This is a dictionary of all students. The key is the roll number and value is student object.
     def PrintAllStudents(self):
@@ -44,5 +49,27 @@ ctrl.CreateStudent("Sud", 23, 4, "A-")
 for key in ctrl.students:
     print(key)
     ctrl.students[key].studentdetails()
+############################################################################################
+############################################################################################
+# Creating Seminars
+seminar1 = Seminar(1,1,"Learn Stock Investing")
+seminar2 = Seminar(2,1,"Learn data analytics online")
+seminar3 = Seminar(3,2,"Learn Adobe Photoshop")
+seminar4 = Seminar(4,3,"Learn Pycharms")
+
+ctrl.seminars[1] = seminar1
+ctrl.seminars[2] = seminar2
+ctrl.seminars[3] = seminar3
+ctrl.seminars[4] = seminar4
+
+print(ctrl.seminars)
+############################################################################################
+############################################################################################
+prof1 = Professor(1, "John Doe")
+prof2 = Professor(2, "Alex Shaw")
+
+ctrl.professors[1] = prof1
+ctrl.professors[2] = prof2
+print(ctrl.professors)
 ############################################################################################
 ############################################################################################

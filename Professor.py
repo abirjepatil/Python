@@ -3,9 +3,12 @@
 class Professor:
     Name = ''
     ProfessorId = 0
-    SeminarId = 0
 
-    def GradeStudensts(self, SeminarId):
+    def __init__(self, ProfessorId, Name):
+        self.Name = Name
+        self.ProfessorId = ProfessorId
+
+    def GradeStudensts(self, SeminarId,Students):
         thisdict = {
             "StudentA": "A+",
             "StudentB": "B",
